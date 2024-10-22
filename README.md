@@ -3,7 +3,7 @@ Experiment -2
 Aim:
 To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools, analyse its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
 Tools Required:
-•	Personal Computer
+•	Personal Computer 
 •	Cadence Virtuoso Software
 
 S C H E M A T I C S I M U L A T I O N
@@ -68,7 +68,7 @@ iii)	Creating the Symbol for schematic Cell view
 
 iv)	Creating the new test cell view
 •	Go to CIW window, Execute File-New-Cell view
-	Setup the new file form
+	Setup the new file form 
 	Library: Select the one you created.
 	Cell: Cell name must be different from the name used in schematic cell view. Ex: Inverter_test
 	View: Schematic
